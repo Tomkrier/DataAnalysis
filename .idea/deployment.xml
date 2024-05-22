@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ubuntu@146.235.223.35:22 key" uploadOnCheckin="6aaf141e-e027-4ca7-9e7f-4c2dbddd59df" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="ubuntu@146.235.223.35:22 key">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="ubuntu@146.235.223.35:22 key" />
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
